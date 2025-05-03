@@ -58,29 +58,41 @@ Para realizar esta practica el estudiante necesita tener claro los siguientes te
 - Documentacion sobre comandos para la creacion de contenedores wordpress.
   
 ## 8. Procedimiento
-Paso 1:Crear una red   ![ver en que usuario estoy](images/image1.png)
+Paso 1:Crear una red 
+ ![ver en que usuario estoy](images/image1.png)
 
-Paso 2:Descargar la imagen para wordpress    ![ver en que usuario estoy](images/image2.png)
+Paso 2:Descargar la imagen para wordpress   
+ ![ver en que usuario estoy](images/image2.png)
 
-Paso 3:Crear un volumen para wordpress. ![ver en que usuario estoy](images/image3.png)
+Paso 3:Crear un volumen para wordpress. 
+![ver en que usuario estoy](images/image3.png)
 
-paso 4: Descargar imagen de mysql ![ver en que usuario estoy](images/image4.png)
+paso 4: Descargar imagen de mysql 
+![ver en que usuario estoy](images/image4.png)
 
-paso 5: Crear un volumen para mysql ![ver en que usuario estoy](images/image5.png)
+paso 5: Crear un volumen para mysql 
+![ver en que usuario estoy](images/image5.png)
 
-paso 6: Crear un contenedor para mysql ![ver en que usuario estoy](images/image6.png)
+paso 6: Crear un contenedor para mysql 
+![ver en que usuario estoy](images/image6.png)
 
-paso 7: Descargar imagen para phpmyadmin ![ver en que usuario estoy](images/image7.png)
+paso 7: Descargar imagen para phpmyadmin 
+![ver en que usuario estoy](images/image7.png)
 
-paso 8: Crear un contenedor para phpmyadmin usando el puerto 8080 ![ver en que usuario estoy](images/image8.png)
+paso 8: Crear un contenedor para phpmyadmin usando el puerto 8080 
+![ver en que usuario estoy](images/image8.png)
 
-paso 9:Crear un contenedor de wordpress usando el puerto 8000![ver en que usuario estoy](images/image9.png)
+paso 9:Crear un contenedor de wordpress usando el puerto 8000
+![ver en que usuario estoy](images/image9.png)
 
-paso 10: Revicion de la interfaz segun puerto 8000 ![ver en que usuario estoy](images/image10.png)
+paso 10: Revicion de la interfaz segun puerto 8000 
+![ver en que usuario estoy](images/image10.png)
 
-paso 11: Revicion de la interfaz segun puerto 8080 ![ver en que usuario estoy](images/image11.png)
+paso 11: Revicion de la interfaz segun puerto 8080 
+![ver en que usuario estoy](images/image11.png)
 
-paso 12: Diagrama con puertos ![ver en que usuario estoy](images/image12.png)
+paso 12: Diagrama con puertos
+ ![ver en que usuario estoy](images/image12.png)
 
 ## 9. Resultados esperados:
     
